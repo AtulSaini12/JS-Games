@@ -1,0 +1,9 @@
+{
+  "name": "JS-Games",
+  "version": "1.0.0",
+  "description": "Multiple game platform",
+  "main": "index.js",
+  "repository": "git@github.com:AtulSaini12/JS-Games.git",
+  "author": "AtulSaini12 <atulsaini9886@gmail.com>",
+  "license": "MIT"
+}
